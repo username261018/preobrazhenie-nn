@@ -165,7 +165,7 @@ figure{margin:0}
 .foot__nav a:hover{text-decoration:underline}
 .foot__base{grid-column:1/-1;display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 20px;padding-top:16px;border-top:1px solid rgba(58,33,64,.25);font-size:.875rem}
 
-.fab{position:fixed;right:16px;bottom:16px;z-index:55;display:grid;place-items:center;width:84px;height:84px;padding:8px;border-radius:50%;background:#c4006a;color:#fff;box-shadow:0 0 0 4px rgba(255,255,255,.85),0 0 0 6px #e3007c,0 10px 24px rgba(61,31,69,.3);font:600 .75rem/1.25 'Open Sans',Arial,sans-serif;text-align:center;text-decoration:none}
+.fab{position:fixed;right:16px;bottom:16px;z-index:55;display:grid;place-items:center;width:84px;height:84px;padding:4px;border-radius:50%;background:#c4006a;color:#fff;box-shadow:0 0 0 4px rgba(255,255,255,.85),0 0 0 6px #e3007c,0 10px 24px rgba(61,31,69,.3);font:600 .75rem/1.25 'Open Sans',Arial,sans-serif;text-align:center;text-decoration:none}
 .fab:hover{background:#9e0056}
 @media (max-width:599px){.fab{width:68px;height:68px;font-size:.625rem;right:10px;bottom:10px}}
 
